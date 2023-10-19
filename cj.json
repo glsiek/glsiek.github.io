@@ -5,7 +5,7 @@
    },
 
   {
-      "ct":"happy.json",
+      "ct":"happy",
       "kaomoji":"（*^▽^*)"
    },
    {
@@ -17,7 +17,7 @@
       "kaomoji":"(・_・ヾ)" 
    },
     {
-      "ct":"love.json",
+      "ct":"love",
       "kaomoji":"乂❤‿❤乂"
    },
    {
@@ -37,11 +37,11 @@
       "kaomoji":"◖⚆ᴥ⚆◗"
    },
    {
-      "ct":"wicked.json",
+      "ct":"wicked",
       "kaomoji":"(｀∀´)Ψ"
    },
    {
-      "ct":"fight.json",
+      "ct":"fight",
       "kaomoji":"(ง •̀_•́)ง"
    },
     {
@@ -49,28 +49,28 @@
       "kaomoji":"ʕ•ᴥ•ʔ"
    },
    {
-      "ct":"hide.json",
+      "ct":"hide",
       "kaomoji":"(☯‿├┬┴┬┴"
    },
  
    {
-      "ct":"others.json",
+      "ct":"others",
       "kaomoji":"( ͡ຈ╭͜ʖ╮͡ຈ )"
    },
    {
-      "ct":"sad.json",
+      "ct":"sad",
       "kaomoji":"(∩︵∩)"
    },
    {
-      "ct":"saluting.json",
+      "ct":"saluting",
       "kaomoji":"(＞Д＜)ゝ"
    },
    {
-      "ct":"scared.json",
+      "ct":"scared",
       "kaomoji":"（*/∇＼*）"
    },
    {
-      "ct":"sunglasses.json",
+      "ct":"sunglasses",
       "kaomoji":"(⌐▨_▨)"
    },
      {
@@ -78,27 +78,27 @@
       "kaomoji":"₍˄·͈༝·͈˄₎◞"
    },
    {
-      "ct":"thinking.json",
+      "ct":"thinking",
       "kaomoji":"(҂⌣̀_⌣́)"
    },
    {
-      "ct":"waving.json",
+      "ct":"waving",
       "kaomoji":"(〜◕ヮ◕)〜"
    },
    {
-      "ct":"wing.json",
+      "ct":"wing",
       "kaomoji":"(o‿∩)"
    },
    {
-      "ct":"worried.json",
+      "ct":"worried",
       "kaomoji":"(；☉_☉)"
    },
    {
-      "ct":"writing.json",
+      "ct":"writing",
       "kaomoji":"φ（．．）"
    },
    {
-      "ct":"wth.json",
+      "ct":"wth",
       "kaomoji":"⁽(ཀ д ཀ)⁾"
    }
 ]
