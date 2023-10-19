@@ -1,27 +1,104 @@
 [
-  { "ct": "angry.json" },
-  { "ct": "bears.json" },
-  { "ct": "cats.json" },
-  { "ct": "clouds.json" },
-  { "ct": "confused.json" },
-  { "ct": "crazy.json" },
-  { "ct": "danse.json" },
-  { "ct": "dead.json" },
-  { "ct": "dogs.json" },
-  { "ct": "evil.json" },
-  { "ct": "fight.json" },
-  { "ct": "happy.json" },
-  { "ct": "hide.json" },
-  { "ct": "love.json" },
-  { "ct": "others.json" },
-  { "ct": "sad.json" },
-  { "ct": "saluting.json" },
-  { "ct": "scared.json" },
-  { "ct": "sunglasses.json" },
-  { "ct": "thinking.json" },
-  { "ct": "waving.json" },
-  { "ct": "wing.json" },
-  { "ct": "worried.json" },
-  { "ct": "writing.json" },
-  { "ct": "wth.json" }
+   {
+      "ct":"angry",
+      "kaomoji":"<(｀^´)>"
+   },
+
+  {
+      "ct":"happy.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"clouds",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"confused",
+      "kaomoji":"<(｀^´)>"
+   },
+    {
+      "ct":"love.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"crazy",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"danse",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"dead",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"dogs",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"evil.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"fight.json",
+      "kaomoji":"<(｀^´)>"
+   },
+    {
+      "ct":"bears",
+      "kaomoji":"ʕ•ᴥ•ʔ"
+   },
+   {
+      "ct":"hide.json",
+      "kaomoji":"<(｀^´)>"
+   },
+ 
+   {
+      "ct":"others.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"sad.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"saluting.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"scared.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"sunglasses.json",
+      "kaomoji":"<(｀^´)>"
+   },
+     {
+      "ct":"cats",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"thinking.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"waving.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"wing.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"worried.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"writing.json",
+      "kaomoji":"<(｀^´)>"
+   },
+   {
+      "ct":"wth.json",
+      "kaomoji":"<(｀^´)>"
+   }
 ]
