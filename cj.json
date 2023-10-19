@@ -6,43 +6,43 @@
 
   {
       "ct":"happy.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"（*^▽^*)"
    },
    {
       "ct":"clouds",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"꒰●꒡ ̫ ꒡●꒱"
    },
    {
       "ct":"confused",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(・_・ヾ" }  "
    },
     {
       "ct":"love.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"乂❤‿❤乂"
    },
    {
       "ct":"crazy",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"◴_◶"
    },
    {
       "ct":"danse",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"〜(￣▽￣〜)"
    },
    {
       "ct":"dead",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"（Ω_Ω）"
    },
    {
       "ct":"dogs",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"◖⚆ᴥ⚆◗"
    },
    {
-      "ct":"evil.json",
-      "kaomoji":"<(｀^´)>"
+      "ct":"wicked.json",
+      "kaomoji":"(｀∀´)Ψ"
    },
    {
       "ct":"fight.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(ง •̀_•́)ง"
    },
     {
       "ct":"bears",
@@ -50,55 +50,55 @@
    },
    {
       "ct":"hide.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(☯‿├┬┴┬┴"
    },
  
    {
       "ct":"others.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"( ͡ຈ╭͜ʖ╮͡ຈ )"
    },
    {
       "ct":"sad.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(∩︵∩)"
    },
    {
       "ct":"saluting.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(＞Д＜)ゝ"
    },
    {
       "ct":"scared.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"（*/∇＼*）"
    },
    {
       "ct":"sunglasses.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(⌐▨_▨)"
    },
      {
       "ct":"cats",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"₍˄·͈༝·͈˄₎◞"
    },
    {
       "ct":"thinking.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(҂⌣̀_⌣́)"
    },
    {
       "ct":"waving.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(〜◕ヮ◕)〜"
    },
    {
       "ct":"wing.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(o‿∩)"
    },
    {
       "ct":"worried.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"(；☉_☉)"
    },
    {
       "ct":"writing.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"φ（．．）"
    },
    {
       "ct":"wth.json",
-      "kaomoji":"<(｀^´)>"
+      "kaomoji":"⁽(ཀ д ཀ)⁾"
    }
 ]
