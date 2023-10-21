@@ -1,0 +1,158 @@
+[
+  {
+    "rBase": "(",
+    "lBase": ")"
+  },
+  {
+    "rBase": "{",
+    "lBase": "}"
+  },
+  {
+    "rBase": "[",
+    "lBase": "]"
+  },
+  {
+    "rBase": "⁅",
+    "lBase": "⁆"
+  },
+  {
+    "rBase": "‹(",
+    "lBase": ")›"
+  },
+  {
+    "rBase": "<(",
+    "lBase": ")>"
+  },
+  {
+    "rBase": "⦓",
+    "lBase": "⦔"
+  },
+  {
+    "rBase": "⸦(",
+    "lBase": ")⸧"
+  },
+  {
+    "rBase": "〔",
+    "lBase": "〕"
+  },
+  {
+    "rBase": "⟮",
+    "lBase": "⟯"
+  },
+  {
+    "rBase": "᚜",
+    "lBase": "᚛"
+  },
+  {
+    "rBase": "〈",
+    "lBase": "〉"
+  },
+  {
+    "rBase": "⦑",
+    "lBase": "⦒"
+  },
+  {
+    "rBase": "⧼",
+    "lBase": "⧽"
+  },
+  {
+    "rBase": "⦍",
+    "lBase": "⦐"
+  },
+  {
+    "rBase": "⌊",
+    "lBase": "⌋"
+  },
+  {
+    "rBase": "⌈",
+    "lBase": "⌉"
+  },
+  {
+    "rBase": "❪",
+    "lBase": "❫"
+  },
+  {
+    "rBase": "❮",
+    "lBase": "❯"
+  },
+  {
+    "rBase": "❰",
+    "lBase": "❱"
+  },
+  {
+    "rBase": "⧙",
+    "lBase": "⧘"
+  },
+  {
+    "rBase": "༼",
+    "lBase": "༽"
+  },
+  {
+    "rBase": "⟅",
+    "lBase": "⟆"
+  },
+  {
+    "rBase": "ᶘ",
+    "lBase": "­­­­­ᶅ"
+  },
+  {
+    "rBase": "ᖗ",
+    "lBase": "ᖘ"
+  },
+  {
+    "rBase": "ʕ",
+    "lBase": "ʔ"
+  },
+  {
+    "rBase": "⎝",
+    "lBase": "⎠"
+  },
+  {
+    "rBase": "⸮",
+    "lBase": "?"
+  },
+  {
+    "rBase": "|",
+    "lBase": "|"
+  },
+  {
+    "rBase": "ʢ",
+    "lBase": "ʡ"
+  },
+  {
+    "rBase": "୨",
+    "lBase": "୧"
+  },
+  {
+    "rBase": "〘",
+    "lBase": "〙"
+  },
+  {
+    "rBase": "【",
+    "lBase": "】"
+  },
+  {
+    "rBase": "⟪",
+    "lBase": "⟫"
+  },
+  {
+    "rBase": "ᘳ",
+    "lBase": "ᘰ"
+  },
+  {
+    "rBase": "ᘳ(",
+    "lBase": ")ᘰ"
+  },
+  {
+    "rBase": "ᕳ",
+    "lBase": "ᕲ"
+  },
+  {
+    "rBase": "ᕳ(",
+    "lBase": ")ᕲ"
+  },
+  {
+    "rBase": "q",
+    "lBase": "p"
+  }
+]
